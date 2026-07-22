@@ -49,9 +49,10 @@ Legge i calendari che hai già configurato sul Mac — Google, Outlook e iCloud
 compresi — senza che tu debba fare alcun accesso. Nell'avvio guidato puoi
 scegliere quali sorvegliare.
 
-**Gli eventi restano sul tuo Mac.** Bannerize non ha un server, non manda niente
-da nessuna parte e non raccoglie nulla. L'unica connessione che apre è verso
-questa pagina di GitHub, per vedere se esiste una versione più recente.
+**Gli eventi restano sul tuo Mac.** Bannerize non ha un server e non raccoglie
+nulla di nascosto. Apre solo due connessioni: verso GitHub, per controllare se
+c'è una versione più recente; e — soltanto se scegli tu di usare «Aiutami a
+migliorare!» — per inviare il feedback che hai scritto.
 
 ---
 
@@ -115,9 +116,10 @@ starts, which is the only thing it does. It reads the calendars already set up
 on your Mac (Google, Outlook and iCloud included) with no sign-in, and you
 choose which ones to watch.
 
-**Your events stay on your Mac.** Bannerize has no server, sends nothing
-anywhere and collects nothing. The only connection it opens is to this GitHub
-page, to check whether a newer version exists.
+**Your events stay on your Mac.** Bannerize has no server and collects nothing
+behind your back. It opens only two connections: to GitHub, to check for a newer
+version; and — only if you choose to use "Help me improve!" — to send the
+feedback you wrote.
 
 ### Updates
 
